@@ -10,3 +10,13 @@ Shizuka es un bot de Telegram diseñado para brindar una experiencia fluida y di
 - 🔘 **Botones interactivos** para navegar fácilmente.
 - 🎲 **Juegos** integrados para entretener a los usuarios.
 - 📋 **Comandos personalizados** para más control.
+
+## 🤝 ¡Únete a la Comunidad Oficial de Shizuka!
+
+¿Quieres estar al día con las novedades y participar en la comunidad? ¡Te invitamos a unirte al **grupo oficial de Shizuka** en Telegram! 🌟
+
+<p align="center">
+  <a href="https://t.me/+9TmlZbg9aGUyYTRh">
+    <img src="https://img.shields.io/badge/Únete%20al%20grupo-Telegram-blue?style=for-the-badge&logo=telegram" alt="Unirse al Grupo de Telegram">
+  </a>
+</p>
