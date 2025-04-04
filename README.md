@@ -3,6 +3,14 @@
 
 ![Descripción de la imagen](https://i.postimg.cc/HszJs3HT/Add-Text-04-01-08-15-16.jpg)
 
+## 🌟 Apoya a Shizuka con una Estrellita
+
+Si te gusta el bot y las funciones que ofrece, te agradeceríamos mucho que dejaras una **estrellita ⭐** en este repositorio. ¡Es gratis y nos motiva a seguir mejorando! 💖
+
+<p align="center">
+  ⭐ **Haz clic en el botón de arriba para apoyar a Shizuka** ⭐
+</p>
+
 ## 🌟 Sobre Shizuka
 Shizuka es un bot de Telegram diseñado para brindar una experiencia fluida y divertida, con botones interactivos, recordatorios, juegos y más.
 
